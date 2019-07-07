@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.6.0
+Built-By: dilshan
+Build-Jdk: 10.0.2
+Implementation-Title: course-api-again
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.javabrains.springbootquickstart
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/course-api-a
+ gain/
+
